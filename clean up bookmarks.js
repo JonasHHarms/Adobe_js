@@ -1,0 +1,55 @@
+function remove_character(str_to_remove, str) {
+var reg = new RegExp(str_to_remove);
+return str.replace(reg, '');
+}
+for (var b=0; b<this.bookmarkRoot.children.length; b++) 
+{ 
+this.bookmarkRoot.children[b].name = remove_character('2020', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('01', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('02', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('03', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('04', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('05', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('06', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('07', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('08', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('09', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('10', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('11', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('12', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('13', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('14', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('15', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('16', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('17', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('18', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('19', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('20', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('21', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('22', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('23', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('24', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('25', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('26', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('27', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('28', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('29', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('30', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('31', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = remove_character('_1', this.bookmarkRoot.children[b].name )
+this.bookmarkRoot.children[b].name = this.bookmarkRoot.children[b].name.replace("_", " ");
+this.bookmarkRoot.children[b].name = this.bookmarkRoot.children[b].name.replace("_", " ");
+this.bookmarkRoot.children[b].name = this.bookmarkRoot.children[b].name.replace("_", " ");
+this.bookmarkRoot.children[b].name = this.bookmarkRoot.children[b].name.replace("_", " ");
+this.bookmarkRoot.children[b].name = this.bookmarkRoot.children[b].name.replace("_", " ");
+this.bookmarkRoot.children[b].name = this.bookmarkRoot.children[b].name.replace("_", " ");
+this.bookmarkRoot.children[b].name = this.bookmarkRoot.children[b].name.replace("_", " ");
+this.bookmarkRoot.children[b].name = this.bookmarkRoot.children[b].name.replace("_", " ");
+this.bookmarkRoot.children[b].name = this.bookmarkRoot.children[b].name.replace("_", " ");
+this.bookmarkRoot.children[b].name = this.bookmarkRoot.children[b].name.replace("_", " ");
+this.bookmarkRoot.children[b].name = this.bookmarkRoot.children[b].name.replace("_", " ");
+this.bookmarkRoot.children[b].name = this.bookmarkRoot.children[b].name.replace(".pdf", "");
+this.bookmarkRoot.children[b].name = this.bookmarkRoot.children[b].name.replace(" ", "");
+this.bookmarkRoot.children[b].name = this.bookmarkRoot.children[b].name.replace("-", "");
+this.bookmarkRoot.children[b].name = this.bookmarkRoot.children[b].name.replace("..", "");
+this.bookmarkRoot.children[b].name = this.bookmarkRoot.children[b].name.trim();
